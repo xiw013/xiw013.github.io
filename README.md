@@ -6,7 +6,7 @@ It is my hope to one day work in the area of computer science and artificial int
 
 ### Research Experiences
 (June 2022 - present)
-Working on prjects of designing an AI chatbot with emphasis on security and pravicy and Studying people's reactions to misinformation and disinformation on twitters under the supervisition of Dr.Munyaka in SEISUP Lab. 
+Working on projects of designing an AI chatbot with emphasis on security and privacy and Studying people's reactions on misinformation and disinformation on twitter under the supervision of Dr.Munyaka in SEISUP Lab. 
 
 (August 2021 - present)
 Collaborating with other three students: James Cole, Daniel Hernandez, and Nikki Rejai in Dr. Sahoo’s [Boolean research lab](https://sites.google.com/view/debashis-sahoo) on generating a *gene expression signature* for tuberculosis with higher accuracy under any diseases' conditions. 
@@ -20,20 +20,21 @@ Collecting Water Samples and analyzing samples using IDEXX Quanti-tray/Enteroler
 - (Spring 2021 - present) Provost Honors 
 
 ### Projects
-Mini Project on creating an chatbot: [chatbot](). 
+Mini Project on creating a chatbot: [Soical chatbot](). 
 
 Mini Project on analyzing sentiments among all comments within a youtube video related to gun controls: [Sentiment Analysis on Gun Control Video on youtube](). 
 
-Collaborating with 4 other UCSD students completed the first project in Data Science: [Exploring the traffic patterns expercially car collisions' patterns in San Diego area](https://github.com/xiw013/SD-Traffic-Collision.git). We hope that this project be used to create safer and more efficient communities for everyone.
+Collaborating with 4 other UCSD students, I completed the first project in Data Science: [Exploring traffic patterns in the San Diego area](https://github.com/xiw013/SD-Traffic-Collision.git). We hope that this project will be used to create safer and more efficient communities for everyone.
 
 ---
 
-## Extracirriculum Activity
-- Principle member and Social Media/Marketing co-chair of the [Association for Women in Mathematics](https://awm-math.org/), UCSD undergraduate branch.
-- Founding member of [Triton Translator](https://sites.google.com/ucsd.edu/triton-translators/home?authuser=0) which is organization dedicated to providing translation support for community organizations in SD area.
+## Extracurricular Activity
+- Principal member and Social Media/Marketing co-chair of the [Association for Women in Mathematics](https://awm-math.org/), UCSD undergraduate branch.
+- Founding member of [Triton Translator](https://sites.google.com/ucsd.edu/triton-translators/home?authuser=0) which is an organization dedicated to providing translation support for community organizations in the SD area.
 - Social Justice Ambassador Intern for [Orange County Human Relations Commissions](https://www.ochumanrelations.org/), Santa Ana, CA
 
-Aside from academic, I also love palying musics, painting, hiking, and traveling!
+Aside from academics, I also love playing music, painting, hiking, and traveling!
+
 
 
 

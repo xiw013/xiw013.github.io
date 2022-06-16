@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## ABOUT ME
 
-You can use the [editor on GitHub](https://github.com/xiw013/xiw013.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+It is my hope to one day work in the area of computer science and artificial intelligence. I am intrigued and fascinated by the seemingly unlimited potential of these areas of study and development to improve the quality of life. It is my desire to learn as much as possible about all areas of computer science and the development of artificial intelligence.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Research Experiences
+(June 2022 - present)
+Working on prjects of designing an AI chatbot with emphasis on security and pravicy and Studying people's reactions to misinformation and disinformation on twitters under the supervisition of Dr.Munyaka in SEISUP Lab. 
 
-### Markdown
+(August 2021 - present)
+Collaborating with other three students: James Cole, Daniel Hernandez, and Nikki Rejai in Dr. Sahoo’s **Boolean research lab** and working on a project of generating a *gene expression signature* for tuberculosis.
+ 
+### Awards 
+- (June 2022) Recipient of the Gary C Reynolds Scholarship @UC San Diego for exceptional promise in making future contributions in the field of Math-Computer Science 
+- (Spring 2021 - present) Marshall College Honors program
+- (Spring 2021 - present) Provost Honors 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projects
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiw013/xiw013.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

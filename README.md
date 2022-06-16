@@ -9,7 +9,7 @@ It is my hope to one day work in the area of computer science and artificial int
 Working on prjects of designing an AI chatbot with emphasis on security and pravicy and Studying people's reactions to misinformation and disinformation on twitters under the supervisition of Dr.Munyaka in SEISUP Lab. 
 
 (August 2021 - present)
-Collaborating with other three students: James Cole, Daniel Hernandez, and Nikki Rejai in Dr. Sahoo’s [Boolean research lab](https://sites.google.com/view/debashis-sahoo) and working on a project of generating a *gene expression signature* for tuberculosis with higher accuracy under any diseases' conditions. 
+Collaborating with other three students: James Cole, Daniel Hernandez, and Nikki Rejai in Dr. Sahoo’s [Boolean research lab](https://sites.google.com/view/debashis-sahoo) on generating a *gene expression signature* for tuberculosis with higher accuracy under any diseases' conditions. 
 
 (April 2019 - June 2020)
 Collecting Water Samples and analyzing samples using IDEXX Quanti-tray/Enterolert method to detect any enterococci contamination for [Surfrider Foundation](https://www.surfrider.org/) and [Irvine Water District](https://www.irwd.com/).
@@ -20,9 +20,9 @@ Collecting Water Samples and analyzing samples using IDEXX Quanti-tray/Enteroler
 - (Spring 2021 - present) Provost Honors 
 
 ### Projects
-Mini Project on analyzing sentiments among all comments within a youtube video related to gun controls 
+Mini Project on analyzing sentiments among all comments within a youtube video related to gun controls: [Sentiment Analysis on Gun Control Video on youtube](). 
 
-Collaborating with 4 other UCSD students completed the first project in Data Science: [Exploring the traffic patterns expercially car collisions' patterns in San Diego area](). We hope that this project be used to create safer and more efficient communities for everyone, and there are detailed descriptions within the project. 
+Collaborating with 4 other UCSD students completed the first project in Data Science: [Exploring the traffic patterns expercially car collisions' patterns in San Diego area](). We hope that this project be used to create safer and more efficient communities for everyone.
 
 ---
 

@@ -29,9 +29,12 @@ Collaborating with 4 other UCSD students completed the first project in Data Sci
 ---
 
 ## Extracirriculum Activity
-
+- Principle member and Social Media/Marketing co-chair of the [Association for Women in Mathematics](https://awm-math.org/), UCSD undergraduate branch.
+- Founding member of [Triton Translator](https://sites.google.com/ucsd.edu/triton-translators/home?authuser=0) which is organization dedicated to providing translation support for community organizations in SD area.
+- Social Justice Ambassador Intern for [Orange County Human Relations Commissions](https://www.ochumanrelations.org/), Santa Ana, CA
 
 Aside from academic, I also love palying musics, painting, hiking, and traveling!
+
 
 
 

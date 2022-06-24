@@ -34,12 +34,18 @@ Collaborating with 4 other UCSD students, I completed the first project in Data 
 - Social Justice Ambassador Intern for [Orange County Human Relations Commissions](https://www.ochumanrelations.org/), Santa Ana, CA
 
 Aside from academics, I also love playing music, painting, hiking, and traveling! Here are some photos about me:
+
 My high school graduation
 <br>
-<img src="graduation.JPG"  width="450" height="310">
-<img src="guitar.JPG"  width="225" height="310">
-<img src="hiking.JPG"  width="225" height="310">
-<img src="spectrum.JPG"  width="225" height="330">
-![breach](beach.JPG)
+<img src="graduation.JPG"  width="450" height="300">
+<br>
+Me playing piano and guitar
+<br>
+<img src="guitar.JPG"  width="225" height="300">
+<br>
+I love hiking, camping, and going to the beach!
+<img src="hiking.JPG"  width="225" height="300">
+<img src="spectrum.JPG"  width="225" height="300">
+<img src="beach.JPG"  width="450" height="300">
 
 

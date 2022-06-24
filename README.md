@@ -39,14 +39,14 @@ My high school graduation
 ![graduation](graduation.JPG)
 Me palying piano, guitar, and Guzheng (a chinese traditional music instrument)
 <br>
-<img src="piano.JPG"  width="325" height="200">
 <img src="guitar.JPG"  width="200" height="250">
-<img src="Guzheng.JPG"  width="350" height="200">
+<img src="piano.JPG"  width="275" height="150">
+<img src="Guzheng.JPG"  width="275" height="150">
 <br>
 hiking, shopping, and going to the breach!
 <br>
-<img src="hiking.JPG"  width="200" height="250">
-<img src="spectrum.JPG"  width="200" height="250">
-<img src="beach.JPG"  width="350" height="275">
+<img src="hiking.JPG"  width="250" height="325">
+<img src="spectrum.JPG"  width="250" height="330">
+<img src="beach.JPG"  width="375" height="275">
 
 

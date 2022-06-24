@@ -35,10 +35,10 @@ Collaborating with 4 other UCSD students, I completed the first project in Data 
 
 Aside from academics, I also love playing music, painting, hiking, and traveling! Here are some photos about me:
 My high school graduation
-![graduation](graduation.JPG)
-
-<img src="guitar.JPG"  width="225" height="325">
-<img src="hiking.JPG"  width="225" height="325">
+<br>
+<img src="graduation.JPG"  width="450" height="310">
+<img src="guitar.JPG"  width="225" height="310">
+<img src="hiking.JPG"  width="225" height="310">
 <img src="spectrum.JPG"  width="225" height="330">
 ![breach](beach.JPG)
 

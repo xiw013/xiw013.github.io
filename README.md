@@ -40,16 +40,16 @@ Here are some photos about me:
 My high school graduation
 <br>
 <img src="graduation.JPG"  width="450" height="300">
-<br>
+<br><br>
 Me playing piano and guitar
 <br>
 <img src="guitar.JPG"  width="225" height="300">
-<br>
+<br><br>
 My paintings
 <br>
 <img src="painting1.jpg"  width="225" height="300">
 <img src="painting2.jpg"  width="225" height="300">
-<br>
+<br><br>
 I love hiking, camping, and going to the beach!
 <br>
 <img src="camping1.jpg"  width="225" height="300">

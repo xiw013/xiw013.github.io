@@ -38,7 +38,8 @@ Aside from academics, I also love playing music, painting, hiking, and traveling
 My high school graduation
 ![My high school graduation](graduation.JPG)
 Me palying piano, Guzheng (a chinese traditional music instrument), and guitar
-![Me palying piano](Guzheng.JPG)
+<img src="piano.JPG"  width="200" height="100">
+![Me palying piano](piano.JPG)
 ![Guzheng](Guzheng.JPG)
 ![and guitar](guitar.JPG)
 

@@ -37,17 +37,16 @@ Aside from academics, I also love playing music, painting, hiking, and traveling
 
 My high school graduation
 ![graduation](graduation.JPG)
-<img src="graduation.JPG"  width="400" height="250">
-<br>
-Me palying piano, Guzheng (a chinese traditional music instrument), and guitar
+Me palying piano, guitar, and Guzheng (a chinese traditional music instrument)
 <br>
 <img src="piano.JPG"  width="350" height="200">
-<img src="Guzheng.JPG"  width="350" height="200">
 <img src="guitar.JPG"  width="200" height="250">
+<img src="Guzheng.JPG"  width="350" height="200">
 <br>
-hiking, beach, and shopping
-<img src="hiking.JPG"  width="350" height="200">
-<img src="beach.JPG"  width="350" height="200">
-<img src="spectrum.JPG"  width="200" height="250">
+hiking, shopping, and going to the breach!
+<br>
+<img src="hiking.JPG"  width="200" height="230">
+<img src="spectrum.JPG"  width="200" height="230">
+<img src="beach.JPG"  width="350" height="275">
 
 

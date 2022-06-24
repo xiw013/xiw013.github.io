@@ -43,9 +43,17 @@ Me playing piano and guitar
 <br>
 <img src="guitar.JPG"  width="225" height="300">
 <br>
+My paintings
+<br>
+<img src="painting1.jpg"  width="225" height="300">
+<img src="painting2.jpg"  width="225" height="300">
+<br>
 I love hiking, camping, and going to the beach!
+<br>
 <img src="hiking.JPG"  width="225" height="300">
 <img src="spectrum.JPG"  width="225" height="300">
+<img src="camping1.jpg"  width="225" height="300">
+<img src="camping2.jpg"  width="225" height="300">
 <img src="beach.JPG"  width="450" height="300">
 
 

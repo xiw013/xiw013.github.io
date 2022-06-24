@@ -33,7 +33,9 @@ Collaborating with 4 other UCSD students, I completed the first project in Data 
 - Founding member of [Triton Translator](https://sites.google.com/ucsd.edu/triton-translators/home?authuser=0) which is an organization dedicated to providing translation support for community organizations in the SD area.
 - Social Justice Ambassador Intern for [Orange County Human Relations Commissions](https://www.ochumanrelations.org/), Santa Ana, CA
 
-Aside from academics, I also love playing music, painting, hiking, and traveling! Here are some photos about me:
+Aside from academics, I also love playing music, painting, hiking, and traveling! I play the traditional Chinese Guzheng for community and charity events, and I receive Los Angeles Legacy Central Conservatory of Music Gold Award and Legacy International Arts Festival	Gold Award in	2019.
+
+Here are some photos about me:
 
 My high school graduation
 <br>

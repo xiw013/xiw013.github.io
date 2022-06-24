@@ -35,8 +35,12 @@ Collaborating with 4 other UCSD students, I completed the first project in Data 
 
 Aside from academics, I also love playing music, painting, hiking, and traveling! Here are some photos about me:
 
+My high school graduation
 ![My high school graduation](graduation.JPG)
-![Me palying piano](Guzheng.JPG)[Guzheng](Guzheng.JPG)[and guitar](guitar.JPG)
+Me palying piano, Guzheng (a chinese traditional music instrument), and guitar
+![Me palying piano](Guzheng.JPG)
+[Guzheng](Guzheng.JPG)
+[and guitar](guitar.JPG)
 
 
 

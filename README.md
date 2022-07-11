@@ -20,9 +20,9 @@ Collecting Water Samples and analyzing samples using IDEXX Quanti-tray/Enteroler
 - (Spring 2021 - present) Provost Honors 
 
 ### Projects
-Mini Project on creating a chatbot: [Soical chatbot](). 
+Mini Project on creating a recommendation chatbot: [chatbot](https://github.com/xiw013/amazon_dresses_recommendation-chatbot). 
 
-Mini Project on analyzing sentiments among all comments within a youtube video related to gun controls: [Sentiment Analysis on Gun Control Video on youtube](). 
+Mini Project on analyzing sentiments among all comments within a youtube video related to gun controls: [Sentiment Analysis on Gun Control Video on youtube](https://github.com/xiw013/Youtube-comments-analysis). 
 
 Collaborating with 4 other UCSD students, I completed the first project in Data Science: [Exploring traffic patterns in the San Diego area](https://github.com/xiw013/SD-Traffic-Collision.git). We hope that this project will be used to create safer and more efficient communities for everyone.
 

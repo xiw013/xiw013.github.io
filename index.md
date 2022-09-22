@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-It is my hope to one day work in the area of computer science and artificial intelligence. I am intrigued and fascinated by the seemingly unlimited potential of these areas of study and development to improve the quality of life. It is my desire to learn as much as possible about all areas of computer science and the development of artificial intelligence.
+It is my hope to one day work in the area of computer science and artificial intelligence. I am intrigued and fascinated by the seemingly unlimited potential of these areas of study and development to improve the quality of life. It is my desire to learn as much as possible about all areas of *computer science* and the development of *artificial intelligence*.
 
 ---
 
@@ -20,6 +20,8 @@ Collecting Water Samples and analyzing samples using IDEXX Quanti-tray/Enteroler
 - (Spring 2021 - present) Provost Honors 
 
 ### Projects
+Developed scripts in R and python to collect and analyze 2,000 tweets to assist with four different projects in the lab. Analysis Techniques: Sentiment Analysis, Topic Modeling, Word Count, N-grams + TF-IDF! [R-script](https://github.com/Munyaka-Research-Group/su22_allprojects/tree/main/twitterFU). 
+
 Mini Project on creating a recommendation chatbot: [chatbot](https://github.com/xiw013/amazon_dresses_recommendation-chatbot). 
 
 Mini Project on analyzing sentiments among all comments within a youtube video related to gun controls: [Sentiment Analysis on Gun Control Video on youtube](https://github.com/xiw013/Youtube-comments-analysis). 
@@ -35,7 +37,10 @@ Collaborating with 4 other UCSD students, I completed the first project in Data 
 
 Aside from academics, I also love playing music, painting, hiking, and traveling! I play the traditional Chinese Guzheng for community and charity events, and I receive Los Angeles Legacy Central Conservatory of Music Gold Award and Legacy International Arts Festival	Gold Award in	2019.
 
-Here are some photos about me:
+> “I am no bird; and no net ensnares me.” – Charlotte Brontë, Jane Eyre
+
+> “After all, tomorrow is another day.” — Margaret Mitchell, Gone with the Wind
+
 <img src="graduation.JPG"  width="450" height="300">
 <img src="guitar.JPG"  width="225" height="300">
 <img src="painting1.jpg"  width="225" height="300">

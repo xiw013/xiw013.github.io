@@ -59,17 +59,16 @@ first = 5
 second = 6
 third = first + second
 ```
-## [Section Link](https://www.wikipedia.org/)
+## [Section Link](https://github.com/xiw013/xiw013.github.io/edit/main/index.md#about-me)
 
 relative link:
 [picture in the repo](aurora.jpg)
 
 ordered list:
-1. James Madison
-2. James Monroe
-3. John Quincy Adams
+1. first
+2. second 
+3. third
 
-Tasks list:
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+Tasks list in the future:
+- [x] Be happy
+- [ ] Be healthy

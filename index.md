@@ -5,7 +5,9 @@ It is my hope to one day work in the area of computer science and artificial int
 ---
 
 ### Research Experiences
-(June 2022 - present)
+(September 2022 - present) SCGB undergraduate research fellowship on neuron science. Working in Komiyama's lab under the mentorship of Assaf. 
+
+(June 2022 - August 2022)
 Working on projects of designing an AI chatbot with emphasis on security and privacy and Studying people's reactions on misinformation and disinformation on twitter under the supervision of Dr.Munyaka in SEISUP Lab. 
 
 (August 2021 - present)
@@ -47,6 +49,27 @@ Aside from academics, I also love playing music, painting, hiking, and traveling
 <img src="painting2.jpg"  width="225" height="300">
 <img src="camping1.jpg"  width="225" height="300">
 <img src="camping2.jpg"  width="225" height="300">
+<img src="aurora.jpg"  width="225" height="300">
 <img src="beach.JPG"  width="450" height="300">
 
+core Markdown constructs that I haven't used:
+quoting code: 
+```
+first = 5
+second = 6
+third = first + second
+```
+## [Section Link](https://www.wikipedia.org/)
 
+relative link:
+[picture in the repo](aurora.jpg)
+
+ordered list:
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+
+Tasks list:
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:

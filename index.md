@@ -6,7 +6,7 @@ It is my hope to one day work in the area of computer science and artificial int
 
 ### Research Experiences
 (September 2022 - present) 
-SCGB undergraduate research fellowship on neuroscience. Working in Komiyama's lab under the mentorship of Posdoc Assaf Ramot on defining the functional input of thalamocortical projections in the primary motor cortex 2/3 layer. 
+SCGB undergraduate research fellowship on neuroscience [(SURF)](https://www.simonsfoundation.org/2022/05/23/watch-apply-for-the-scgb-undergraduate-research-fellowship/) and Shenoy Undergraduate Research Fellowship in Neuroscience [(SURFiN)](https://www.simonsfoundation.org/grant/shenoy-undergraduate-research-fellowship-neuroscience-surfin/). Working in [Komiyama's lab](https://komiyamalab.biosci.ucsd.edu/home/) under the mentorship of Posdoc Assaf Ramot on defining the functional input of thalamocortical projections in the primary motor cortex 2/3 layer. 
 
 (June 2022 - August 2022)
 Working on projects of designing an AI chatbot with emphasis on security and privacy and Studying people's reactions on misinformation and disinformation on twitter under the supervision of Dr.Munyaka in [Ujima Lab](https://www.ujimasp.com/). 
@@ -39,7 +39,7 @@ Spring 2022 - Collaborating with 4 other UCSD students, I completed the first pr
 ## Extracurricular Activity
 - [ComputingPath](https://computingpaths.ucsd.edu/) website student Developer. 
 - Principal member and Social Media/Marketing co-chair of the [Association for Women in Mathematics](https://awm-math.org/), UCSD undergraduate branch.
-- Founding member of [Triton Translator](https://sites.google.com/ucsd.edu/triton-translators/home?authuser=0) which is an organization dedicated to providing translation support for community organizations in the SD area.
+- Founding member of Triton Translator which is an organization dedicated to providing translation support for community organizations in the SD area.
 - Social Justice Ambassador Intern for [Orange County Human Relations Commissions](https://www.ochumanrelations.org/), Santa Ana, CA
 
 Aside from academics, I also love playing music, painting, hiking, and traveling! I play the traditional Chinese Guzheng for community and charity events, and I receive Los Angeles Legacy Central Conservatory of Music Gold Award and Legacy International Arts Festival	Gold Award in	2019.

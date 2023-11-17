@@ -5,12 +5,13 @@ It is my hope to one day work in the area of computer science and artificial int
 ---
 
 ### Research Experiences
-(September 2022 - present) SCGB undergraduate research fellowship on neuron science. Working in Komiyama's lab under the mentorship of Assaf. 
+(September 2022 - present) 
+SCGB undergraduate research fellowship on neuroscience. Working in Komiyama's lab under the mentorship of Posdoc Assaf Ramot on defining the functional input of thalamocortical projections in the primary motor cortex 2/3 layer. 
 
 (June 2022 - August 2022)
-Working on projects of designing an AI chatbot with emphasis on security and privacy and Studying people's reactions on misinformation and disinformation on twitter under the supervision of Dr.Munyaka in SEISUP Lab. 
+Working on projects of designing an AI chatbot with emphasis on security and privacy and Studying people's reactions on misinformation and disinformation on twitter under the supervision of Dr.Munyaka in [Ujima Lab](https://www.ujimasp.com/). 
 
-(August 2021 - present)
+(August 2021 - October 2022)
 Collaborating with other three students: James Cole, Daniel Hernandez, and Nikki Rejai in Dr. Sahoo’s [Boolean research lab](https://sites.google.com/view/debashis-sahoo) on generating a *gene expression signature* for tuberculosis with higher accuracy under any diseases' conditions. 
 
 (April 2019 - June 2020)
@@ -22,9 +23,12 @@ Collecting Water Samples and analyzing samples using IDEXX Quanti-tray/Enteroler
 - (Spring 2021 - present) Provost Honors 
 
 ### Projects
+
+Fall 2022 - Design an web app for saving and tracking movie watchlists with 9 other students in CSE 110 (Software engineering class): [Binge Tracker APP](https://github.com/cse110-fa22-group9/Team9Repository)
+
 Summer 2022 - Developed scripts in R and python to collect and analyze 2,000 tweets to assist with four different projects in the lab. Analysis Techniques: Sentiment Analysis, Topic Modeling, Word Count, N-grams + TF-IDF!: [R-script](https://github.com/Munyaka-Research-Group/su22_allprojects/tree/main/twitterFU). 
 
-Summer 2022 - Mini Project on creating a recommendation chatbot: [chatbot](https://github.com/xiw013/amazon_dresses_recommendation-chatbot). 
+Summer 2022 - Mini Project on creating a recommendation chatbot for amazon dress: [chatbot](https://github.com/xiw013/amazon_dresses_recommendation-chatbot). 
 
 Summer 2022 - Mini Project on analyzing sentiments among all comments within a youtube video related to gun controls: [Sentiment Analysis on Gun Control Video on youtube](https://github.com/xiw013/Youtube-comments-analysis). 
 
@@ -33,6 +37,7 @@ Spring 2022 - Collaborating with 4 other UCSD students, I completed the first pr
 ---
 
 ## Extracurricular Activity
+- [ComputingPath](https://computingpaths.ucsd.edu/) website student Developer. 
 - Principal member and Social Media/Marketing co-chair of the [Association for Women in Mathematics](https://awm-math.org/), UCSD undergraduate branch.
 - Founding member of [Triton Translator](https://sites.google.com/ucsd.edu/triton-translators/home?authuser=0) which is an organization dedicated to providing translation support for community organizations in the SD area.
 - Social Justice Ambassador Intern for [Orange County Human Relations Commissions](https://www.ochumanrelations.org/), Santa Ana, CA
@@ -52,23 +57,8 @@ Aside from academics, I also love playing music, painting, hiking, and traveling
 <img src="aurora.jpg"  width="225" height="300">
 <img src="beach.JPG"  width="450" height="300">
 
-core Markdown constructs that I haven't used:
-quoting code: 
-```
-first = 5
-second = 6
-third = first + second
-```
-## [Section Link](https://github.com/xiw013/xiw013.github.io/edit/main/index.md#about-me)
-
-relative link:
-[picture in the repo](aurora.jpg)
-
-ordered list:
-1. first
-2. second 
-3. third
-
 Tasks list in the future:
-- [x] Be happy
+- [ ] Be happy
 - [ ] Be healthy
+- [ ] Attend PHD
+- [ ] Become a researcher
